@@ -13,6 +13,8 @@
 *.lo
 *.o
 *.obj
+*.bin
+*.data
 
 # Precompiled Headers
 *.gch
